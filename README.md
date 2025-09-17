@@ -1,3 +1,3 @@
 
-# Mi Proyecto
-Esto es una prueba con Git y GitHub 😎
+# Mi proyecto 
+Jeferson Abimael Ramírez Donis 
